@@ -1,0 +1,11 @@
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\bin\Debug\net5.0\Measurements.Domain.deps.json
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\bin\Debug\net5.0\Measurements.Domain.dll
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\bin\Debug\net5.0\ref\Measurements.Domain.dll
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\bin\Debug\net5.0\Measurements.Domain.pdb
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\obj\Debug\net5.0\Measurements.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\obj\Debug\net5.0\Measurements.Domain.AssemblyInfoInputs.cache
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\obj\Debug\net5.0\Measurements.Domain.AssemblyInfo.cs
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\obj\Debug\net5.0\Measurements.Domain.csproj.CoreCompileInputs.cache
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\obj\Debug\net5.0\Measurements.Domain.dll
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\obj\Debug\net5.0\ref\Measurements.Domain.dll
+D:\imp-personal\git-projects\MeasurementsApi\Measurements.Domain\obj\Debug\net5.0\Measurements.Domain.pdb

@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.WebApi\\Measurements.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Application\\Measurements.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Application\\Measurements.Application.csproj",
+        "projectName": "Measurements.Application",
+        "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Application\\Measurements.Application.csproj",
+        "packagesPath": "C:\\Users\\charanp\\.nuget\\packages\\",
+        "outputPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\charanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\Measurements.Domain.csproj": {
+                "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\Measurements.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\Measurements.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\Measurements.Domain.csproj",
+        "projectName": "Measurements.Domain",
+        "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\Measurements.Domain.csproj",
+        "packagesPath": "C:\\Users\\charanp\\.nuget\\packages\\",
+        "outputPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\charanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Infrastructure\\Measurements.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Infrastructure\\Measurements.Infrastructure.csproj",
+        "projectName": "Measurements.Infrastructure",
+        "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Infrastructure\\Measurements.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\charanp\\.nuget\\packages\\",
+        "outputPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\charanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\Measurements.Domain.csproj": {
+                "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Domain\\Measurements.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.WebApi\\Measurements.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.WebApi\\Measurements.WebApi.csproj",
+        "projectName": "Measurements.WebApi",
+        "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.WebApi\\Measurements.WebApi.csproj",
+        "packagesPath": "C:\\Users\\charanp\\.nuget\\packages\\",
+        "outputPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\charanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Application\\Measurements.Application.csproj": {
+                "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Application\\Measurements.Application.csproj"
+              },
+              "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Infrastructure\\Measurements.Infrastructure.csproj": {
+                "projectPath": "D:\\imp-personal\\git-projects\\MeasurementsApi\\Measurements.Infrastructure\\Measurements.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
